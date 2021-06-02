@@ -23,7 +23,7 @@ int main()
        puts("Output file cannot be opened");
     }
 
-    /*Read & Write Logic*/
+    /*Read & Write Logic for a file*/
     while(1)
     {
         ch = fgetc(fpr);
